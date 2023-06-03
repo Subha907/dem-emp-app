@@ -1,0 +1,29 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testappformreact-staging-194642-authRole",
+      "UnauthRoleArn": "arn:aws:iam::363811234194:role/amplify-testappformreact-staging-194642-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::363811234194:role/amplify-testappformreact-staging-194642-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-testappformreact-staging-194642-deployment",
+      "UnauthRoleName": "amplify-testappformreact-staging-194642-unauthRole",
+      "StackName": "amplify-testappformreact-staging-194642",
+      "StackId": "arn:aws:cloudformation:us-east-1:363811234194:stack/amplify-testappformreact-staging-194642/93f76d00-dd58-11ed-b91e-12d752ffa69f",
+      "AmplifyAppId": "d1jvb6ynjpn0cf"
+    },
+    "categories": {
+      "function": {
+        "addUserTogrpFunc": {
+          "deploymentBucketName": "amplify-testappformreact-staging-194642-deployment",
+          "s3Key": "amplify-builds/addUserTogrpFunc-466f6875554669456462-build.zip"
+        }
+      },
+      "api": {
+        "testappformreact": {}
+      },
+      "auth": {
+        "testappformreact": {}
+      }
+    }
+  }
+}
