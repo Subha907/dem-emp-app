@@ -1,0 +1,13 @@
+{
+    "AppSyncApiName": "testappformreact",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "S3DeploymentBucket": "amplify-testappformreact-staging-194642-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/16d9009985f6591c46d89a4f7394d3f81f4a5e4e"
+}
